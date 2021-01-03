@@ -4,7 +4,7 @@
 //
 //  Created by Coolmint on 2021/01/02.
 //
-
+#if os(iOS)
 import UIKit
 import RxSwift
 
@@ -44,3 +44,4 @@ extension BaseViewModel {
     }
   }
 }
+#endif

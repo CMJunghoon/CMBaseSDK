@@ -4,7 +4,7 @@
 //
 //  Created by Coolmint on 2021/01/03.
 //
-
+#if os(iOS)
 import UIKit
 
 public class BaseLabel: UILabel {
@@ -56,3 +56,4 @@ public extension BaseLabel {
                      textAlignment: textAlignment)
   }
 }
+#endif

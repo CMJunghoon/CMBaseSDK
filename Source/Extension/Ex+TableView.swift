@@ -4,7 +4,7 @@
 //
 //  Created by Coolmint on 2021/01/03.
 //
-
+#if os(iOS)
 import Foundation
 import UIKit
 
@@ -50,3 +50,4 @@ extension UITableView {
       return view
   }
 }
+#endif

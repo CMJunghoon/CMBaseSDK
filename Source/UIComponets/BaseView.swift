@@ -4,7 +4,7 @@
 //
 //  Created by Coolmint on 2021/01/03.
 //
-
+#if os(iOS)
 import UIKit
 import SnapKit
 
@@ -90,3 +90,4 @@ open class BaseScrollView: BaseView {
     }
   }
 }
+#endif

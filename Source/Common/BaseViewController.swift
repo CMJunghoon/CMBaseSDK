@@ -4,7 +4,7 @@
 //
 //  Created by Coolmint on 2021/01/02.
 //
-
+#if os(iOS)
 import UIKit
 
 open class BaseViewController: UIViewController {
@@ -13,3 +13,5 @@ open class BaseViewController: UIViewController {
     super.viewDidLoad()
   }
 }
+
+#endif

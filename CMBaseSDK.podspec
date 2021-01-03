@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CMBaseSDK'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'iOS Development Base Source'
   s.description      = <<-DESC
   This is an MVVM Easy Pattern and Base Collection 

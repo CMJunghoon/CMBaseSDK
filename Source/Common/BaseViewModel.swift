@@ -4,7 +4,7 @@
 //
 //  Created by Coolmint on 2021/01/02.
 //
-
+#if os(iOS)
 import UIKit
 
 public protocol ViewModelDI: UIViewController {
@@ -22,3 +22,4 @@ public extension ViewModelDI {
 }
 
 public protocol BaseViewModel {}
+#endif

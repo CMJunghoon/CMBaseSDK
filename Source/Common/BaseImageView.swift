@@ -4,7 +4,7 @@
 //
 //  Created by Coolmint on 2021/01/03.
 //
-
+#if os(iOS)
 import Kingfisher
 
 open class BaseImageView: UIImageView {
@@ -35,3 +35,4 @@ open class BaseImageView: UIImageView {
     }
   }
 }
+#endif

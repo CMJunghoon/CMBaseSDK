@@ -4,7 +4,7 @@
 //
 //  Created by Coolmint on 2021/01/03.
 //
-
+#if os(iOS)
 import UIKit
 
 public extension UIButton {
@@ -20,3 +20,4 @@ public extension UIButton {
     setBackgroundImage(backgroundImage, for: state)
   }
 }
+#endif
