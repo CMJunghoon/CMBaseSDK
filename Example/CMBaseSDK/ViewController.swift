@@ -9,7 +9,7 @@
 import UIKit
 import CMBaseSDK
 
-class ViewController: UIViewController {
+class ViewController: BaseViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
