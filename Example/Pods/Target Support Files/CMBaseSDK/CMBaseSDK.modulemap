@@ -1,0 +1,6 @@
+framework module CMBaseSDK {
+  umbrella header "CMBaseSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

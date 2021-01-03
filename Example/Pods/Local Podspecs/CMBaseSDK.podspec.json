@@ -1,0 +1,22 @@
+{
+  "name": "CMBaseSDK",
+  "version": "0.1.0",
+  "summary": "A short description of CMBaseSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/coolmint.swift@gmail.com/CMBaseSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "coolmint.swift@gmail.com": "coolmint.korea@gmailc.om"
+  },
+  "source": {
+    "git": "https://github.com/coolmint.swift@gmail.com/CMBaseSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CMBaseSDK/Classes/**/*"
+}
