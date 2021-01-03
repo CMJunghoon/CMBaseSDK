@@ -1,0 +1,88 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "eaf6e622dd41b07b251d8f01752eab31bc811493",
+          "version": "5.4.1"
+        }
+      },
+      {
+        "package": "Codextended",
+        "repositoryURL": "https://github.com/JohnSundell/Codextended",
+        "state": {
+          "branch": null,
+          "revision": "8d7c46dfc9c55240870cf5561d6cefa41e3d7105",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "Gedatsu",
+        "repositoryURL": "https://github.com/bannzai/Gedatsu.git",
+        "state": {
+          "branch": null,
+          "revision": "644f18f82943ed9f6392a5c3ca88a430524a789f",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher.git",
+        "state": {
+          "branch": null,
+          "revision": "5840cfe0d4a942be41c1cb8a325cc27dd50be1e4",
+          "version": "6.0.0"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "c8742ed97fc2f0c015a5ea5eddefb064cd7532d2",
+          "version": "6.0.0"
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit.git",
+        "state": {
+          "branch": null,
+          "revision": "d458564516e5676af9c70b4f4b2a9178294f1bc6",
+          "version": "5.0.1"
+        }
+      },
+      {
+        "package": "SwiftDate",
+        "repositoryURL": "https://github.com/malcommac/SwiftDate.git",
+        "state": {
+          "branch": null,
+          "revision": "ed308a5afb97a3874300b761dad6e9966269e3e7",
+          "version": "5.1.0"
+        }
+      },
+      {
+        "package": "SwiftyStoreKit",
+        "repositoryURL": "https://github.com/bizz84/SwiftyStoreKit.git",
+        "state": {
+          "branch": null,
+          "revision": "9974acf07b31b6f5bf363d5118dc1bd4fcac6122",
+          "version": "0.16.1"
+        }
+      },
+      {
+        "package": "Zip",
+        "repositoryURL": "https://github.com/marmelroy/Zip.git",
+        "state": {
+          "branch": null,
+          "revision": "bd19d974e8a38cc8d3a88c90c8a107386c3b8ccf",
+          "version": "2.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
