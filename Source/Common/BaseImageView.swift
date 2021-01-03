@@ -6,6 +6,8 @@
 //
 #if os(iOS)
 import Kingfisher
+import UIKit
+import Foundation
 
 open class BaseImageView: UIImageView {
   public convenience init(imageName: String? = nil, contentMode: UIView.ContentMode) {
