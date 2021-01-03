@@ -1,5 +1,9 @@
+.build/
+project.xcworkspace
+xcuserdata
+Examples/
 .DS_Store
-/.build
-/Packages
-/*.xcodeproj
-xcuserdata/
+Gemfile
+Gemfile.lock
+*.sketch
+.swiftpm
