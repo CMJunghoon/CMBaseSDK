@@ -1,22 +1,56 @@
 {
   "name": "CMBaseSDK",
   "version": "0.1.0",
-  "summary": "A short description of CMBaseSDK.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/coolmint.swift@gmail.com/CMBaseSDK",
+  "summary": "iOS Development Base Source",
+  "description": "This is an MVVM Easy Pattern and Base Collection \nWith Rx, CoreData... Etc minium xcode project",
+  "homepage": "https://cmjunghoon.github.io",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "coolmint.swift@gmail.com": "coolmint.korea@gmailc.om"
+    "coolmint.swift@gmail.com": "coolmint.swift@gmail.com"
   },
   "source": {
-    "git": "https://github.com/coolmint.swift@gmail.com/CMBaseSDK.git",
+    "git": "https://github.com/CMJunghoon/CMBaseSDK.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "9.0"
+    "ios": "11.0"
   },
-  "source_files": "CMBaseSDK/Classes/**/*"
+  "swift_versions": "5.3",
+  "source_files": "Source/**/*",
+  "dependencies": {
+    "RxSwift": [
+
+    ],
+    "SnapKit": [
+
+    ],
+    "RxCocoa": [
+
+    ],
+    "SwiftyStoreKit": [
+
+    ],
+    "SwiftDate": [
+
+    ],
+    "Zip": [
+
+    ],
+    "Gedatsu": [
+
+    ],
+    "Alamofire": [
+
+    ],
+    "Codextended": [
+
+    ],
+    "Kingfisher": [
+
+    ]
+  },
+  "swift_version": "5.3"
 }

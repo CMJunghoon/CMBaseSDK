@@ -1,16 +1,67 @@
 PODS:
-  - CMBaseSDK (0.1.0)
+  - Alamofire (5.4.1)
+  - CMBaseSDK (0.1.0):
+    - Alamofire
+    - Codextended
+    - Gedatsu
+    - Kingfisher
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+    - SwiftDate
+    - SwiftyStoreKit
+    - Zip
+  - Codextended (0.3.0)
+  - Gedatsu (1.2.0)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - RxCocoa (6.0.0):
+    - RxRelay (= 6.0.0)
+    - RxSwift (= 6.0.0)
+  - RxRelay (6.0.0):
+    - RxSwift (= 6.0.0)
+  - RxSwift (6.0.0)
+  - SnapKit (5.0.1)
+  - SwiftDate (6.3.1)
+  - SwiftyStoreKit (0.16.1)
+  - Zip (2.1.1)
 
 DEPENDENCIES:
   - CMBaseSDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Codextended
+    - Gedatsu
+    - Kingfisher
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - SwiftDate
+    - SwiftyStoreKit
+    - Zip
 
 EXTERNAL SOURCES:
   CMBaseSDK:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CMBaseSDK: f9ff67672cb6daa2a2d19d681e286417085c734b
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  CMBaseSDK: bb9f38d8821f76bb3b415f54d30517d3ef5772a6
+  Codextended: f384271b8694376ad766ddbf2a011efbfdcee905
+  Gedatsu: 13a21a3cbf7978f9ff671eca5715b94a4309d9a8
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  RxCocoa: 3f79328fafa3645b34600f37c31e64c73ae3a80e
+  RxRelay: 8d593be109c06ea850df027351beba614b012ffb
+  RxSwift: c14e798c59b9f6e9a2df8fd235602e85cc044295
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftDate: 72d28954e8e1c6c1c0f917ccc8005e4f83c7d4b2
+  SwiftyStoreKit: 6b9c08810269f030586dac1fae8e75871a82e84a
+  Zip: 414f59909701fda9a84ab774ebe0f5449b1082cc
 
-PODFILE CHECKSUM: bcf84117b1c484f8b31719127e3bf891d68ef9db
+PODFILE CHECKSUM: eab3488fb9ba7199a7b482ae18eb30304fefb082
 
 COCOAPODS: 1.10.0

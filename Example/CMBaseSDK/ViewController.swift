@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import CMBaseSDK
 
 class ViewController: UIViewController {
 
