@@ -9,10 +9,12 @@ import UIKit
 import RxSwift
 
 open class BaseRxViewController: BaseViewController {
-  var disposeBag = DisposeBag()
+  public var disposeBag = DisposeBag()
   
   open override func viewDidLoad() {
     super.viewDidLoad()
   }
 }
+
+
 #endif

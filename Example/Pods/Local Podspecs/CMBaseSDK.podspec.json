@@ -1,6 +1,6 @@
 {
   "name": "CMBaseSDK",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": "iOS Development Base Source",
   "description": "This is an MVVM Easy Pattern and Base Collection \nWith Rx, CoreData... Etc minium xcode project",
   "homepage": "https://cmjunghoon.github.io",
@@ -13,14 +13,17 @@
   },
   "source": {
     "git": "https://github.com/CMJunghoon/CMBaseSDK.git",
-    "tag": "0.1.0"
+    "tag": "0.4.0"
   },
   "platforms": {
     "ios": "11.0"
   },
-  "swift_versions": "5.3",
+  "swift_versions": "5.2",
   "source_files": "Source/**/*",
   "dependencies": {
+    "RxGesture": [
+
+    ],
     "RxSwift": [
 
     ],
@@ -52,5 +55,5 @@
 
     ]
   },
-  "swift_version": "5.3"
+  "swift_version": "5.2"
 }
